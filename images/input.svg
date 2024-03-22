@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 17" width="20" height="17">
+	<title>Новый проект</title>
+	<defs>
+		<image  width="20" height="17" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAMAAADqmnyMAAAAAXNSR0IB2cksfwAAAIFQTFRFAAAAhFz/hFz/hFz/hFz/hFz/hFz/g1z/hV7/hFj/hFz/g1z/g1v/g1z/iFX/hFz/hFv/hFz/hFz/hVv//wD/g1z/h2D/hVz/hVz/hVz/hV3/qlX/hFv/hFv/glv/hFz/hFz/hl7/g1z/hFz/hFz/hFz/g1r/gGb/hFz/g1z/hFz/Jbde6AAAACt0Uk5TALL/3dL91YAuHfVQhmkPlbu970MBoSBFZMySA3CJNe7mJmeq/OQlCr8n+wdiT+cAAAB2SURBVHicvc7bDoIwEATQZQoCBaTgBUFBuaP//4FYSWET3p2nzUlmM0S/WGARi5HNEX9BZ8ODMddb0ZffUwYhEB01xkqpJNV2Ol+A4KrR9GRGtzwv7g+O5fKoenJ81dS0bdKBI/phnMzObXL/jvaIj2NQYBcxAyMKBiMU8HxZAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Слой 1" href="#img1" x="0" y="0"/>
+</svg>
