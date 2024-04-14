@@ -1,9 +1,7 @@
-<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20">
-	<title>Новый проект</title>
-	<defs>
-		<image  width="20" height="20" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAMAAAC6V+0/AAAAAXNSR0IB2cksfwAAASBQTFRFAAAAgFXVemnmemnmemnmemnmemnmeWnne2nneWrnemnmemnmemnmeWnmemrme2nmemjmemrmemnmemrnVVX/eWrmemnnfWzoemrle2nmemjogG3te2jnemnmemnneWfke2jleWrmemnmeGjnemnmemnlemjmemjmd2bueWjleW3nemnmbW3bemnmfGrmemnmfWvne2rlemjmemrneWnmeWnlemnmemnleWjmemnlemnnemnne2jjfGjoemnmemnmemnme2nmdm3kemnmemnmeGrjemnmemnme2nlfGfjemrmemnmemnmemnmemnmeWjmeWvkeWfneWnngGDfe2nle2nmcXHjeWrne2rlemnnemnme2jmeWrnemnleWnme2jmSX0EWgAAAGB0Uk5TAAZaqt/59qhVVOL/049vcpDL3kEDkbItqWYsDon8azlsUv4g6sjjsA/SFeAHXCn0K1mrxo1Or2R4iuWxG0Kh+/pwHOTaJMT4iyXXrP3wxV0mSl8Is+cJdFd1l1OTd9RbC3Cr2QAAAQZJREFUeJxVkGtXgkAQhodgi5pCIwIzKCKllDK6K1p2UcMsu9A9y///L9oFDmvzYd+ZZ3dmzrsALIQpUSLT0owsQBazczi/oOTyi6gupUhbRt1IUqOwUlyNM9Na403rxGay4eQ42yyVbTpBcLc426641YK3A7tOLWOavmeAj/twcMgfHlnH9CyfgGdm7BTrTBoBELq61mzR4oycx3d2Gy4uAa6uOy3olnqJH+UGvJBq3+34t2o1mWJKMIgX9d27+9QVDHV4cB5Z1h0+pazoPEMUDOBfvLy+AcioTLJ3/GASWhPmP60wMdfApp9+nY5fWnr9HWBl9FMf/WIg86ZoLKqEqOI4iss/b5IccoS5B1MAAAAASUVORK5CYII="/>
-	</defs>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 20" width="21" height="20">
+	<title>Shape 9 copy</title>
 	<style>
+		.s0 { fill: #7a69e6 } 
 	</style>
-	<use id="Слой 1" href="#img1" x="0" y="0"/>
+	<path id="Shape 9 copy" class="s0" d="m6.4 9.2c-0.2-0.3-0.7-0.3-1 0-0.3 0.2-0.3 0.7 0 1l3 3.4q0.2 0.2 0.5 0.3 0 0 0 0 0.3 0 0.5-0.3l8.9-9.1c0.2-0.3 0.2-0.7-0.1-1-0.2-0.3-0.7-0.3-1 0l-8.3 8.6zm10-7.2c-3.8-2.7-8.9-2.5-12.5 0.5-4.1 3.7-4.6 10-0.9 14.1 1.8 2.1 4.3 3.3 6.8 3.5 2.6 0.1 5.2-0.7 7.3-2.5 3.5-3 4.5-8.1 2.2-12.2-0.1-0.3-0.6-0.5-0.9-0.3-0.4 0.2-0.5 0.6-0.3 0.9 1.9 3.6 1.1 7.9-2 10.6-3.5 3.1-9 2.7-12.1-0.9-3.1-3.5-2.7-9 0.9-12.1 3-2.6 7.4-2.8 10.7-0.5 0.3 0.3 0.7 0.2 0.9-0.1 0.3-0.3 0.2-0.8-0.1-1z"/>
 </svg>
